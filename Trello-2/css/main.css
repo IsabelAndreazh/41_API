@@ -1,0 +1,17 @@
+h2{
+	color: white;
+	background-color: #DDE454;
+	margin-top: 0%;
+	padding: 2%;
+}
+body{background-color: gray;}
+
+#inputLista{
+	width: 100%;
+	background="#BFBFBB";
+}
+
+@media screen and (max-width : 600px) {
+}
+@media screen and (max-width: 920px) {
+}
